@@ -1,0 +1,12 @@
+E:\project\dotnetproj\BlazorPwaApp\BlazorPwaApp\Shared\bin\Debug\net6.0\BlazorPwaApp.Shared.deps.json
+E:\project\dotnetproj\BlazorPwaApp\BlazorPwaApp\Shared\bin\Debug\net6.0\BlazorPwaApp.Shared.dll
+E:\project\dotnetproj\BlazorPwaApp\BlazorPwaApp\Shared\bin\Debug\net6.0\BlazorPwaApp.Shared.pdb
+E:\project\dotnetproj\BlazorPwaApp\BlazorPwaApp\Shared\obj\Debug\net6.0\BlazorPwaApp.Shared.csproj.AssemblyReference.cache
+E:\project\dotnetproj\BlazorPwaApp\BlazorPwaApp\Shared\obj\Debug\net6.0\BlazorPwaApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\dotnetproj\BlazorPwaApp\BlazorPwaApp\Shared\obj\Debug\net6.0\BlazorPwaApp.Shared.AssemblyInfoInputs.cache
+E:\project\dotnetproj\BlazorPwaApp\BlazorPwaApp\Shared\obj\Debug\net6.0\BlazorPwaApp.Shared.AssemblyInfo.cs
+E:\project\dotnetproj\BlazorPwaApp\BlazorPwaApp\Shared\obj\Debug\net6.0\BlazorPwaApp.Shared.csproj.CoreCompileInputs.cache
+E:\project\dotnetproj\BlazorPwaApp\BlazorPwaApp\Shared\obj\Debug\net6.0\BlazorPwaApp.Shared.dll
+E:\project\dotnetproj\BlazorPwaApp\BlazorPwaApp\Shared\obj\Debug\net6.0\refint\BlazorPwaApp.Shared.dll
+E:\project\dotnetproj\BlazorPwaApp\BlazorPwaApp\Shared\obj\Debug\net6.0\BlazorPwaApp.Shared.pdb
+E:\project\dotnetproj\BlazorPwaApp\BlazorPwaApp\Shared\obj\Debug\net6.0\ref\BlazorPwaApp.Shared.dll
